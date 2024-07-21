@@ -12,7 +12,7 @@
 		<docker.image.prefix>kammana</docker.image.prefix>
 		<sonar.projectKey>test_project</sonar.projectKey>
 		<sonar.host.url>http://13.50.81.102:9000</sonar.host.url>
-		<sonar.login>${env.SONAR_LOGIN}</sonar.login>
+		<sonar.login>bbcf8e149ec1243aa567a4e8f96bbfc0687ec26f</sonar.login>
 	</properties>	
 	
 	<dependencies>
