@@ -78,7 +78,7 @@
     <!-- SonarQube profile added here -->
     <profiles>
         <profile>
-            <id>sonar</id>
+            <id>admin</id>
             <activation>
                 <activeByDefault>true</activeByDefault>
             </activation>
