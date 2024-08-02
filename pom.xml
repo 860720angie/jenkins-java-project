@@ -10,7 +10,7 @@
     
     <properties>
         <sonar.host.url>http://13.50.81.102:9000</sonar.host.url>
-        <sonar.login>sqa_08c2e78e78c9f6bef0c63ceabaffe60d8c4260a6</sonar.login>
+        <sonar.login>sqa_06dd326731d70f6ff5eb0ad9789b413937a60f8f</sonar.login>
     </properties>    
     
     <dependencies>
